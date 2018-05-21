@@ -1,0 +1,34 @@
+{
+  "name": "policeukreactjs",
+  "version": "0.0.1",
+  "description":
+    "A React App into the UK Police Open Data using the GraphQL Server sister Project",
+
+  "private": true,
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trevorrwarduk/PoliceUKReactJS.git"
+  },
+  "keywords": ["reactjs", "graphql", "PoliceUK"],
+  "author":
+    "Trevor Ward <trevorrwarduk@gmail.com> (http://www.trevorrwarduk.me)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Trevorrwarduk/PoliceUKReactJS/issues"
+  },
+  "homepage": "https://github.com/Trevorrwarduk/PoliceUKReactJS#readme",
+
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  }
+}
